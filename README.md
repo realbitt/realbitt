@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**realbitt/realbitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammed, a full-stack web and mobile developer.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 10+ years experience in software development
+- 📱 Flutter developer
+- ⚙️ .NET backend developer
+- 🔧 Building useful software and digital products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Flutter
+- .NET
+- C#
+- SQL Server
+- JavaScript
+- React
+
+## 📫 Contact
+- GitHub
